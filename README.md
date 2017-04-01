@@ -1,3 +1,5 @@
-MIT course CS 6.034:
+# MIT course CS 6.034
 
-each problem set is in the folders lab*
+Problem sets for course 6.034 by numbered labs 0-5
+
+All labs pass tests
